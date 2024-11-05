@@ -1,0 +1,7 @@
+D:\Мыцыков Ярослав 215\prac7-master\bin\Debug\prac7.exe.config
+D:\Мыцыков Ярослав 215\prac7-master\bin\Debug\prac7.exe
+D:\Мыцыков Ярослав 215\prac7-master\bin\Debug\prac7.pdb
+D:\Мыцыков Ярослав 215\prac7-master\obj\Debug\prac7.csproj.AssemblyReference.cache
+D:\Мыцыков Ярослав 215\prac7-master\obj\Debug\prac7.csproj.CoreCompileInputs.cache
+D:\Мыцыков Ярослав 215\prac7-master\obj\Debug\prac7.exe
+D:\Мыцыков Ярослав 215\prac7-master\obj\Debug\prac7.pdb
